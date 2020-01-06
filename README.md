@@ -1,7 +1,6 @@
 # CNN-from-scratch
 This repository contains the script of a CNN  coded from scratch using only numpy.
 The Back Propagation of the algorithm chosen is a SGD. 
-The architecture is :
 
 We define the network with the following architecture:
 - A first Convolution layer with __8 kernels of size 3 by 3__ and a __ReLU__ activation function
